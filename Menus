@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Chachski's</title>
+</head>
+<body>
+  <div class="menu" id="menu1">
+    <h2>Menu 1 - Products</h2>
+    <!-- https://chachskis.com/collections/guitars -->
+    <ul>
+      <li><a href="#">Collection 1</a></li>
+      <li><a href="#">Collection 2</a></li>
+      <li><a href="#">Collection 3</a></li>
+    </ul>
+  </div>
+
+  <div class="menu" id="menu2">
+    <h2>Menu 2 - More Products</h2>
+    <!-- https://chachskis.com/collections/volcano -->
+    <ul>
+      <li><a href="#">Collection 4</a></li>
+      <li><a href="#">Collection 5</a></li>
+      <li><a href="#">Collection 6</a></li>
+    </ul>
+  </div>
+
+  <div class="menu" id="menu3">
+    <h2>Menu 3 - Featured Products</h2>
+    <!-- https://chachskis.com/collections/puffco-->
+    <ul>
+      <li><a href="#">Collection 7</a></li>
+      <li><a href="#">Collection 8</a></li>
+      <li><a href="#">Collection 9</a></li>
+    </ul>
+  </div>
+
+  <div class="content">
+    <!-- Your main website content goes here -->
+    <h1>Welcome to Chachskis</h1>
+    <p>Great prices Premium products</p>
+  </div>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
